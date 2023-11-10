@@ -673,10 +673,10 @@ footer {
 
 /* ============Медиа============= */
 
-/* для смартфонов — 390px и выше; */
+/* для смартфонов — до 1024px; */
 
 /* №1 - Секция */
-@media (max-width: 390px) {
+@media (max-width: 1024px) {
   .wrapper-fullscreen ul.menu,
   .wrapper-nav-account .nav-icon,
   .wrapper-nav-account .btn-regist {
